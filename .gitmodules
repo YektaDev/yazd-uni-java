@@ -1,3 +1,6 @@
 [submodule "src/main/java/dev/yekta/uni/project1/project-java-rational"]
 	path = src/main/java/dev/yekta/uni/project1/project-java-rational
 	url = https://github.com/YektaDev/project-java-rational.git
+[submodule "src/main/java/dev/yekta/uni/project-java-airline"]
+	path = src/main/java/dev/yekta/uni/project-java-airline
+	url = https://github.com/YektaDev/project-java-airline.git
